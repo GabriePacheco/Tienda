@@ -67,7 +67,7 @@ public class GPTienda {
        // escoger el producto que se va a actualizar 
        System.out.println("Escoja el producto que desea actualizar");
        opcion2 = leer.nextInt();
-       System.out.println("Escoja la opcion 1 para vender \n  2 Para compara ");
+       System.out.println("Escoja la opcion 1 para Comprar \n  2 Para Vender ");
        accion = leer.nextInt();
        System.out.println("Ingresa la cantidad a actualizar ");
        cantidad = leer.nextInt(); //Leer el numero de producto deseado 
